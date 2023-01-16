@@ -1,8 +1,12 @@
 import React from 'react'
+import { useForm } from "react-hook-form";
 
 const Login = () => {
   return (
-    <div>Login</div>
+    <div>
+      <h1>ログイン</h1>
+        
+    </div>
   )
 }
 

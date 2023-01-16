@@ -14,6 +14,9 @@ const Header = () => {
             <li>
               <Link to="/login">ログイン</Link>
             </li>
+            <li>
+              <Link to="/list">お金管理</Link>
+            </li>
           </ul>
         </nav>
       </div>
